@@ -1,0 +1,20 @@
+.resultDescription{
+    margin: 2rem auto;
+    border: 0.2rem white solid;
+    border-radius: 12px;
+    padding: 0 0.5rem;
+    max-width: 50rem;
+}
+h3{
+    color: white;
+}
+.para{
+    color: white;
+    flex-wrap: wrap;
+    overflow-wrap: break-word;
+}
+.sequence{
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem;
+}
